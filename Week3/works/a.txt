@@ -1,0 +1,10 @@
+Age
+Gender
+Educational background
+Language and culture
+Occupation (ex: job titles)
+Physical abilities/disabilities
+User computing skills
+User domain knowledge and skills (ex. related job experience and competence)
+User attitudes (on use of IT and technology devices)
+User motivation or pain points
